@@ -1,0 +1,11 @@
+﻿  d0036d-lab4-client.cpp
+  GuiToClientMessageListener.cpp
+  MessageToGuiSender.cpp
+  MessageToServerSender.cpp
+  ServerToClientMessageListener.cpp
+C:\Users\Stefan\Documents\D0036D\d0036d-lab4-client\d0036d-lab4-client\GuiToClientMessageListener.cpp(76,6): warning C4101: 'recvlen': unreferenced local variable
+C:\Users\Stefan\Documents\D0036D\d0036d-lab4-client\d0036d-lab4-client\ServerToClientMessageListener.cpp(122,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stefan\Documents\D0036D\d0036d-lab4-client\d0036d-lab4-client\ServerToClientMessageListener.cpp(168,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Stefan\Documents\D0036D\d0036d-lab4-client\d0036d-lab4-client\ServerToClientMessageListener.cpp(197,23): warning C4018: '<': signed/unsigned mismatch
+  d0036d-lab4-client.vcxproj -> C:\Users\Stefan\Documents\D0036D\d0036d-lab4-client\Debug\d0036d-lab4-client.exe
